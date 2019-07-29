@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Ellersoft.Xml", "Ellersoft.Xml\Ellersoft.Xml.fsproj", "{44C4F6ED-2D5C-4CBC-B037-799DD76E8B90}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{38F00C23-7832-4F4E-A3D4-371EE55888EF}"
+ProjectSection(SolutionItems) = preProject
+	.gitignore = .gitignore
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44C4F6ED-2D5C-4CBC-B037-799DD76E8B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44C4F6ED-2D5C-4CBC-B037-799DD76E8B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44C4F6ED-2D5C-4CBC-B037-799DD76E8B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44C4F6ED-2D5C-4CBC-B037-799DD76E8B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
